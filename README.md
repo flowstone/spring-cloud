@@ -1,4 +1,4 @@
-spring-cloud
+Spring Cloud
 =======
 # 史上最简单的 SpringCloud 教程
 
@@ -6,4 +6,11 @@ spring-cloud
 * 第二篇: 服务消费者（rest+ribbon）
 * 第三篇: 服务消费者（Feign）
 * 第四篇: 断路器（Hystrix）
+
+# 慕课网Spring Cloud微服务实战
+* Eureka Server(imooc-eureka-server)
+
+
+# Update Log
+* 2018.10.09(imooc-eureka-server)
 
