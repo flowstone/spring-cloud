@@ -8,13 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-eureka-server" />
         <module name="eureka" />
+        <module name="imooc-eureka-client" />
         <module name="imooc-eureka-server" />
+        <module name="imooc-product" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-eureka-server" target="1.8" />
       <module name="eureka" target="1.5" />
+      <module name="imooc-eureka-client" target="1.8" />
       <module name="imooc-eureka-server" target="1.8" />
+      <module name="imooc-product" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

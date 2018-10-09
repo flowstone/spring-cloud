@@ -9,7 +9,8 @@ Spring Cloud
 
 # 慕课网Spring Cloud微服务实战
 * Eureka Server(imooc-eureka-server)
-
+* Eureka Client(imooc-eureka-client)
+* 商品服务(imooc-product)
 
 # Update Log
 * 2018.10.09(imooc-eureka-server)
