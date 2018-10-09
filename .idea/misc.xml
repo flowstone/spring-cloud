@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/imooc-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/imooc-eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/imooc-product/pom.xml" />
+        <option value="$PROJECT_DIR$/imooc-order/pom.xml" />
       </list>
     </option>
   </component>
