@@ -6,14 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-eureka-server" />
         <module name="eureka" />
-        <module name="eureka-client" />
-        <module name="eureka-server" />
-        <module name="service-feign" />
-        <module name="service-ribbon" />
-        <module name="service-ribbon-hystrix" />
-        <module name="service-zuul" />
+        <module name="spring-boot-hello" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
