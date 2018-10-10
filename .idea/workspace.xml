@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a280e0ea-c896-47c8-8e80-a9885cd56f56" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc-feign/src/main/java/me/xueyao/feign/client/ProductClient.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc-feign/src/main/java/me/xueyao/feign/controller/ClientController.java" />
@@ -8,26 +9,92 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc-order/src/main/java/me/xueyao/order/controller/ClientController.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imooc-product/src/main/java/me/xueyao/product/controller/ServerController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imooc-order/src/main/java/me/xueyao/order/controller/OrderController.java" afterPath="$PROJECT_DIR$/imooc-order/src/main/java/me/xueyao/order/controller/OrderController.java" />
+=======
+    <list default="true" id="3cc29e4f-ee62-47ae-9690-69f11cdbeaf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-boot-hello/src/main/java/me/xueyao/springboothello/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-hello/src/main/java/me/xueyao/springboothello/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-hello/src/main/resources/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-hello/src/main/resources/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-hello/src/main/resources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka.iml" beforeDir="false" />
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-test/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-hello/target/" />
     <ignored path="$PROJECT_DIR$/cloud-eureka-server/target/" />
+<<<<<<< HEAD
     <ignored path="$PROJECT_DIR$/imooc-eureka-server/target/" />
     <ignored path="$PROJECT_DIR$/imooc-eureka-client/target/" />
     <ignored path="$PROJECT_DIR$/imooc-product/target/" />
     <ignored path="$PROJECT_DIR$/imooc-order/target/" />
     <ignored path="$PROJECT_DIR$/imooc-feign/target/" />
+=======
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-482691310">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="8" />
+          <entry key="properties" value="5" />
+          <entry key="xml" value="6" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="6" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="6" />
+          <entry key="java" value="670" />
+          <entry key="properties" value="84" />
+          <entry key="xml" value="199" />
+          <entry key="yml" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="670" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="84" />
+          <entry key="XML" value="199" />
+          <entry key="YAML" value="80" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imooc-product/pom.xml">
@@ -38,10 +105,46 @@
             <state relative-caret-position="230">
               <caret line="31" column="21" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="31" selection-end-column="21" />
               <folding />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-121">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2754">
+              <caret line="153" column="7" lean-forward="true" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/imooc-feign/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,6 +189,11 @@
               </folding>
             </state>
           </provider>
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eureka.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
         </entry>
       </file>
     </leaf>
@@ -93,38 +201,32 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+<<<<<<< HEAD
         <option value="Enum" />
         <option value="JUnit4 Test Class" />
+=======
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
         <option value="Class" />
         <option value="Interface" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>registerWithEureka</find>
-      <find>spring-cloud.version</find>
-      <find>serviceUrl</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
-    <option name="modificationStamps">
+    <option name="projectSyncType">
       <map>
-        <entry key="F:/Test-IDEA/espDemo" value="2931793140000" />
-        <entry key="F:/Test-IDEA/espdemo" value="1467688446000" />
-        <entry key="F:/Test-IDEA/java" value="1467688446000" />
+        <entry key="$PROJECT_DIR$/../../Company-IDEA/ilieping-service-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../TestSpace-IDEA/Blog/demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../TestSpace-IDEA/Blog/springboot-elasticSearch" value="PREVIEW" />
       </map>
-    </option>
-    <option name="externalProjectsViewState">
-      <projects_view />
     </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/imooc-eureka-client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/imooc-product/src/main/java/me/xueyao/ImoocProductApplication.java" />
         <option value="$PROJECT_DIR$/imooc-product/src/main/java/me/xueyao/product/ImoocProductApplication.java" />
@@ -176,6 +278,22 @@
         <option value="$PROJECT_DIR$/imooc-feign/src/main/java/me/xueyao/feign/ImoocFeignApplication.java" />
         <option value="$PROJECT_DIR$/imooc-feign/src/main/java/me/xueyao/feign/controller/ClientController.java" />
         <option value="$PROJECT_DIR$/imooc-feign/src/main/java/me/xueyao/feign/client/ProductClient.java" />
+=======
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/springboot-test/src/main/java/me/xueyao/springboottest/pojo/Person.java" />
+        <option value="$PROJECT_DIR$/springboot-test/src/main/java/me/xueyao/springboottest/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/springboot-test/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springboot-test/src/main/java/me/xueyao/springboottest/boot/TestProfiles.java" />
+        <option value="$PROJECT_DIR$/springboot-test/src/main/java/me/xueyao/springboottest/SpringbootTestApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-hello/src/main/java/me/xueyao/springboothello/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-hello/src/test/java/me/xueyao/springboothello/HelloApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-hello/src/main/java/me/xueyao/springboothello/pojo/Book.java" />
+        <option value="$PROJECT_DIR$/spring-boot-hello/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring-boot-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server/src/main/java/me/xueyao/eureka/server/CloudEurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server/src/main/java/me/xueyao/eureka/server/Application.java" />
+        <option value="$PROJECT_DIR$/cloud-eureka-server/pom.xml" />
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
       </list>
     </option>
   </component>
@@ -188,9 +306,15 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+<<<<<<< HEAD
         <option name="localRepository" value="E:\nexus-maven\repository" />
         <option name="mavenHome" value="E:/Program Files/apache-maven-3.5.0" />
         <option name="userSettingsFile" value="C:\Users\admin\.m2\settings.xml" />
+=======
+        <option name="localRepository" value="$USER_HOME$/Developer/Java/maven-3.5.4/repository" />
+        <option name="mavenHome" value="$USER_HOME$/Developer/Java/maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/Developer/Java/maven-3.5.4/conf/settings.xml" />
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -201,6 +325,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
+<<<<<<< HEAD
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
@@ -268,31 +393,69 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+=======
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cloud-eureka-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="468" />
+    <option name="y" value="135" />
+    <option name="width" value="1440" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path" value="E:/Program Files/node-v10.8.0-win-x64/node" />
-    <property name="js.eslint.eslintPackage" value="" />
-    <property name="js-jscs-nodeInterpreter" value="E:\Program Files\node-v10.8.0-win-x64\node.exe" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538490462667" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="me.xueyao.order.repository" />
-      <recent name="me.xueyao.product.service.impl" />
-      <recent name="me.xueyao.product.repository" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="me.xueyao.product.VO" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-boot-hello/src/main/resources" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Spring Boot.ImoocFeignApplication">
     <configuration default="false" name="ProductCategoryRepositoryTest.findByCategoryTypeIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -893,18 +1056,58 @@
         <item index="2" class="java.lang.String" itemvalue="JUnit.CategoryServiceImplTest.findByCategoryTypeIn" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.ProductServiceImplTest.findUpAll" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.ProductCategoryRepositoryTest.findByCategoryTypeIn" />
+=======
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
       </list>
-    </recent_temporary>
+    </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="RunManager" selected="Spring Boot.SpringBootHelloApplication">
+    <configuration name="CloudEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.xueyao.eureka.server.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootHelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-hello" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.xueyao.springboothello.SpringBootHelloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.xueyao.springboottest.SpringbootTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringbootTestApplication" />
+      <item itemvalue="Spring Boot.SpringBootHelloApplication" />
+      <item itemvalue="Spring Boot.CloudEurekaServerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a280e0ea-c896-47c8-8e80-a9885cd56f56" name="Default" comment="" />
-      <created>1539046961326</created>
+      <changelist id="3cc29e4f-ee62-47ae-9690-69f11cdbeaf2" name="Default Changelist" comment="" />
+      <created>1538279039410</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1539046961326</updated>
       <workItem from="1539046962968" duration="12600000" />
       <workItem from="1539061622739" duration="18302000" />
@@ -986,10 +1189,62 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+=======
+      <updated>1538279039410</updated>
+      <workItem from="1538279042481" duration="5247000" />
+      <workItem from="1538469639024" duration="6203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11472000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="468" y="135" width="1440" height="807" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32857144" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32883435" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.40844062" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
@@ -1447,6 +1702,117 @@
           </folding>
         </state>
       </provider>
+=======
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/Developer/Java/maven-3.5.4/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.5.RELEASE/spring-boot-autoconfigure-2.0.5.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-test/src/main/java/me/xueyao/springboottest/boot/TestProfiles.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-test/src/main/java/me/xueyao/springboottest/pojo/Person.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-test/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/springboot-test/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springboot-test/src/main/java/me/xueyao/springboottest/controller/HelloController.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-test/src/main/java/me/xueyao/springboottest/SpringbootTestApplication.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-hello/src/test/java/me/xueyao/springboothello/HelloApplicationTests.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-hello/src/main/java/me/xueyao/springboothello/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-hello/src/main/java/me/xueyao/springboothello/pojo/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-hello/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-hello/src/main/resources/application-test.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-hello/src/main/resources/application-prod.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-hello/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-hello/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server/src/main/java/me/xueyao/eureka/server/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cloud-eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="153" column="7" lean-forward="true" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> 5fd5da898d2e19cb42814378b1a46889c952bbbd
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
